@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursework directory from Coursera The Data Scientists Toolbox
+Coursework directory for Coursera The Data Scientists Toolbox
